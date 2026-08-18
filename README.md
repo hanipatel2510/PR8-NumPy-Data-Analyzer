@@ -35,33 +35,14 @@ The project allows users to create and perform different operations on **1D, 2D,
 * Calculate **Standard Deviation** and **Variance**.
 * These operations help to understand the basic statistical properties of the array.
 
-## Concepts Used
+### 🧠 Concepts Used
 
-* Python
-* NumPy
-* Object-Oriented Programming (OOP)
-* Classes and Objects
-* Constructor
-* Class Method
-* Static Method
-* Private/Helper Method
-* Match-Case
-* Exception Handling
-* NumPy Array Operations
-
-
-## 🧠 OOP Concepts Used
-
-The project demonstrates:
-
-* Class and Object
-* Constructor (`__init__`)
-* Class Method (`@classmethod`)
-* Static Method (`@staticmethod`)
-* Instance Methods
-* Helper/Private Method
-* Encapsulation
-* Exception Handling
+*  **Core Python:** `match-case` control flow, Exception handling (`try-except`)
+*  **OOP Principles:** Classes & Objects, Encapsulation, `__init__` constructor
+*  **Method Types:** Instance, Class (`@classmethod`), Static (`@staticmethod`), & Private helpers
+*  **NumPy Multi-D Arrays:** 1D, 2D, and 3D array creation & structure
+*  **Array Manipulation:** Indexing, slicing, combining & splitting
+*  **Data & Math Ops:**  searching, sorting, filtering & aggregations
 
 ## 🛠️ Technologies Used
 
