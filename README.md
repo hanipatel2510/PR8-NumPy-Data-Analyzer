@@ -6,38 +6,49 @@ The project allows users to create and perform different operations on **1D, 2D,
 
 ## ✨ Features
 
-### 1. Array Creation
+### 1. Create a NumPy Array
 
-* Create 1D, 2D, and 3D arrays
-* Perform **indexing** on 2D arrays
-* Perform **slicing** on 2D arrays
-* Display created arrays
+* Create **1D, 2D, and 3D arrays**.
+* Perform **indexing** to access specific elements.
+* Perform **slicing** to extract a specific portion of a 2D array.
 
 ### 2. Mathematical Operations
 
-* Addition
-* Subtraction
-* Multiplication
-* Division
+* Perform **Addition, Subtraction, Multiplication, and Division** between two arrays.
+* Includes a **division-by-zero check** to handle invalid division safely.
 
-### 3. Combine & Split Arrays
+### 3. Combine or Split Arrays
 
-* Combine two arrays using vertical stacking
-* Split a 2D array using `np.vsplit()`
+* Combine two arrays using **vertical stacking (`vstack`)**.
+* Split a 2D array into multiple parts using **vertical splitting (`vsplit`)**.
 
-### 4. Search, Sort & Filter
+### 4. Search, Sort and Filter
 
-* Search for a specific value and find its row and column position
-* Sort array values row-wise
-* Filter elements greater than a given value
+* Search for a specific value and find its **row and column position**.
+* Sort array elements using NumPy sorting.
+* Filter and display elements based on a given **threshold value**.
 
-### 5. Aggregate & Statistical Operations
+### 5. Aggregates and Statistics
 
-* Sum
-* Mean
-* Median
-* Standard Deviation
-* Variance
+* Calculate **Sum** and **Mean** of the array.
+* Find **Median**.
+* Calculate **Standard Deviation** and **Variance**.
+* These operations help to understand the basic statistical properties of the array.
+
+## Concepts Used
+
+* Python
+* NumPy
+* Object-Oriented Programming (OOP)
+* Classes and Objects
+* Constructor
+* Class Method
+* Static Method
+* Private/Helper Method
+* Match-Case
+* Exception Handling
+* NumPy Array Operations
+
 
 ## 🧠 OOP Concepts Used
 
@@ -65,6 +76,8 @@ PR8-NumPy-Analyzer/
 │
 ├── main.py
 └── README.md
+└── Screenshot
+
 ```
 
 ## ⚙️ Installation
@@ -116,6 +129,11 @@ Return to Main Menu
 Exit
 ```
 
+## 🎥 Project Demo Video
+
+**Video Link:**
+video Link:[https://drive.google.com/file/d/1Id44KOIxB4nqVOJC_tz8DcHfbfcXTxwI/view?usp=sharing]
+
 ## 📸 Output Screenshots
 ![output](Output1.png)
 ![output](Output2.png)
@@ -124,6 +142,7 @@ Exit
 ![output](Output5.png)
 ![output](Output6.png)
 ![output](Output7.png)
+
 ## 🎯 Learning Outcomes
 
 This project provides practical experience with:
