@@ -119,6 +119,8 @@ Return to Main Menu
 Exit
 ```
 
+---
+
 ## 🎥 Project Demo Video
 
 **Video Link:**
