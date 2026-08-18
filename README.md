@@ -4,6 +4,7 @@ A simple **menu-driven Python application** built using **NumPy** and **Object-O
 
 The project allows users to create and perform different operations on **1D, 2D, and 3D NumPy arrays** through an easy-to-use console menu.
 
+---
 ## ✨ Features
 
 ### 1. Create a NumPy Array
@@ -35,6 +36,8 @@ The project allows users to create and perform different operations on **1D, 2D,
 * Calculate **Standard Deviation** and **Variance**.
 * These operations help to understand the basic statistical properties of the array.
 
+---
+
 ### 🧠 Concepts Used
 
 *  **Core Python:** `match-case` control flow, Exception handling (`try-except`)
@@ -44,12 +47,16 @@ The project allows users to create and perform different operations on **1D, 2D,
 *  **Array Manipulation:** Indexing, slicing, combining & splitting
 *  **Data & Math Ops:**  searching, sorting, filtering & aggregations
 
+---
+
 ## 🛠️ Technologies Used
 
 * **Python**
 * **NumPy**
 * **Object-Oriented Programming**
 
+
+---
 ## 📂 Project Structure
 
 ```text
@@ -90,6 +97,8 @@ The program displays the following main menu:
 
 Select an option and follow the instructions shown in the terminal.
 
+---
+
 ## 🔄 Program Flow
 
 ```text
@@ -115,6 +124,8 @@ Exit
 **Video Link:**
 video Link:[https://drive.google.com/file/d/1Id44KOIxB4nqVOJC_tz8DcHfbfcXTxwI/view?usp=sharing]
 
+---
+
 ## 📸 Output Screenshots
 ![output](Output1.png)
 ![output](Output2.png)
@@ -123,6 +134,8 @@ video Link:[https://drive.google.com/file/d/1Id44KOIxB4nqVOJC_tz8DcHfbfcXTxwI/vi
 ![output](Output5.png)
 ![output](Output6.png)
 ![output](Output7.png)
+
+---
 
 ## 🎯 Learning Outcomes
 
