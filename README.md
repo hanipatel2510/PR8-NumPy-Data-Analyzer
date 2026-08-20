@@ -134,8 +134,6 @@ video Link:[https://drive.google.com/file/d/1Id44KOIxB4nqVOJC_tz8DcHfbfcXTxwI/vi
 ![output](Output3.png)
 ![output](Output4.png)
 ![output](Output5.png)
-![output](Output6.png)
-![output](Output7.png)
 
 ---
 
